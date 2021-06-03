@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons for an union between the Church and the dissenters</title>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58234</idno><idno type="EEBO-CITATION">99832072</idno>
+  <idno type="VID">36541</idno>
+  <idno type="EEBO-PROQUEST">2264181673</idno>
+  
+            <idno type="STC">Wing R486D</idno>
+            <idno type="STC">ESTC R220676</idno>
+            <idno type="PROQUEST">99832072</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99832072e"/>
+            <note>(EEBO-TCP ; phase 2, no. A58234)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36541)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2055:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons for an union between the Church and the dissenters</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1687?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  Relations --  Protestant churches --  Early works to 1800.</term>
+               <term type="topical_term">Dissenters, Religious --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:36541:1"/>
+            <pb n="3" facs="tcp:36541:1"/>
+            <head>REASONS FOR AN UNION BETWEEN THE CHURCH AND THE DISSENTERS.</head>
+            <p>WE have at this day many things to lament and com<g ref="char:EOLhyphen"/>plain of: and there is nothing that is a greater cause of <hi>General Sorrow</hi> than the <hi>Rents</hi> and <hi>Divisions</hi> that are amongst <hi>Protestants:</hi> It is confessed on all hands, that the only way to Repair these Breaches is, that both sides must yeild; but who must lead the way, is the first questi<g ref="char:EOLhyphen"/>on, and to that I think there is a very Natural Answer▪ which is this, <hi>That they who have the Care and Guidance of the Church, should by their Condescention in some things that are</hi> indifferent, <hi>give a good Example to induce Dissenters to come up to be more conformable; for they that are the Guides are to lead, and not to follow:</hi> As if there be a new Law made, whether they that are to see it duely executed, shall first put
+<pb n="2" facs="tcp:36541:2"/> it in practice, or else neglect it till it be done by the Rabble: and in this I conceive there is no difficulty, neither can there be any doubt in the other. And there is yet a further Rea<g ref="char:EOLhyphen"/>son of it; <hi>For what hopes have</hi> Protestant D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ssenters <hi>to affect an Union, by coming up to some things, so long as they see the Bishops are so far from parting with one indifferent Ceremony, that they are daily re assuming several things that the</hi> first Re<g ref="char:EOLhyphen"/>formers <hi>had cast away: So that they are at no certainty; for what knew they▪ but when they have conformed to all that is now injoined, then shall other</hi> new Things <hi>be imposed upon them? So that without Question, it is necessary that the Bishops do be<g ref="char:EOLhyphen"/>gin the Work; and methinks they should strive to have the</hi> Ho<g ref="char:EOLhyphen"/>nour of so Famous an Undertaking, <hi>as to be the</hi> first Authors of Uniting Protestants; <hi>And it is to their</hi> Reproach <hi>that they have delayed it so long.</hi>
+            </p>
+            <p>It is true there is an <hi>Objection</hi> made against Remitting any Ceremonies, which is this; <hi>That Dissenters are not yet Re<g ref="char:EOLhyphen"/>solved what they would be contented with; and therefore if you comply with them so far as they desire all things would be brought into confusion, and the Church would be laid desolate, and there<g ref="char:EOLhyphen"/>fore the Ceremonies are to be keept to preserve Order and Uni<g ref="char:EOLhyphen"/>ty in the Church.</hi>
+            </p>
+            <p>I do acknowledge that <hi>Order and Unity</hi> are very neces<g ref="char:EOLhyphen"/>sary to be maintained; but surely that is not the <hi>right way</hi> to preserve Order and Unity in the Church, by making things necessary that are indifferent (if that be the worst that can be said of them) to keep Thousands out of the Church; and me thinks that Man Ventures very far, who will make that necessary for which he has no Command from our Saviour, or the Apostles. I do also acknowledge, that there is no great hopes to bring in all Dissenters; But tho' I cannot gain all; yet shall we not bring in as many as we
+<pb n="3" facs="tcp:36541:2"/> can? and he that has considered it without prejudice, can not but be of Opinion, that if three or four Things were taken away, or lest <hi>ad libitum,</hi> that several <hi>Thousands</hi> would conform, and be very good Sons of the Church. And these things which they desire not to have imposed on them, are not <hi>Fundamentals;</hi> and if they were taken away, would leave the Doctrine of the Church as sound as before, and the <hi>Dis<g ref="char:EOLhyphen"/>cipline</hi> perhaps more pure, because it <hi>would come nearer to the Primitive Institution,</hi> which perhaps is that <hi>that makes the Morsel so bitter to their Lordships the Bishops.</hi> But besides this, these Ceremonies <hi>which Dissenters find fault with,</hi> are <hi>old Popish Ceremonies,</hi> and retain'd by the first Reformers to bring in the <hi>Papists that were inclinable to turn;</hi> and besides it had been as dangerous <hi>to have taken away all at a Clap,</hi> for Q. <hi>E.</hi> had seen the bad Effects of a <hi>sudden thorow Change both in the time of her Father, and her Sister Q M.</hi> And therefore she would not pretend to build <hi>Rome of a day, nor to take it down the next,</hi> but she <hi>proceeded by degrees,</hi> as she found <hi>people would bear it.</hi> For its a <hi>dangerous</hi> thing to press any thing against the stream of the Nation, and who e're he be that thinks to carry it, will find himself <hi>grosly mistaken:</hi> There<g ref="char:EOLhyphen"/>fore she was forc't to keep in many of the <hi>Popish Ceremonies,</hi> the better to Unite the People; And if that was her design in retaining these <hi>Ceremonies,</hi> then without Question we have no further occasion for them, because the design is at an end for which they were retained: And no Man can be so senseless as to think that the <hi>first Reformers</hi> had done all that was to be done, but that they left something for them that succeeded to finish: They had marked out the Work, and have done a great deal towards perfecting of it, but yet they left a great deal to do for them that came after: And I wish it were also considered, that in regard the <hi>first Reform<g ref="char:EOLhyphen"/>ers</hi>
+               <pb n="4" facs="tcp:36541:3"/> retain'd these <hi>Ceremonies</hi> to bring <hi>Papists</hi> into the Church; why should not we have the same Charity to lay them a<g ref="char:EOLhyphen"/>side, and bring in <hi>Protestant Dissenters?</hi> Ought not we to have the same Bowels of Compassion that they had? As for my own particular. I can comply with every thing that the Church does Command, but it cannot but trouble any good Man to see his Brethren shut out of the Church, be<g ref="char:EOLhyphen"/>cause he has not on such a Sute of Cloaths, or will not bow to this or that Post.</p>
+            <p>The Kneeling at the Sacrament. I wish there be not too much Idolatry in it, and bowing to the Altar is of the same peice: but <hi>I</hi> believe there are <hi>Thousands</hi> who have never con<g ref="char:EOLhyphen"/>sidered these things so far, or perhaps not at <hi>all;</hi> who are very averse and do not conform, because they Savour of Popery; For the Temper of <hi>England</hi> is be<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t against <hi>Popery,</hi> the Name of it is distastful to those that knows not what it is: Therefore it is plain that it is not for the good of the Church that these Ceremonies are not layed aside, and the Bishops themselves do know that the Churches would be fuller if these <hi>Ceremonies</hi> were left indifferent: But the true Reason why they contend so strongly for <hi>Ceremonies,</hi> it is not to preserve the Church, but to support themselves; for they very well apprehend, that their sloath and neglect of their Cures, would be layed open by the Care and Vigil<g ref="char:EOLhyphen"/>ancy of many <hi>Pious and able Men,</hi> who would conform, if <hi>Ceremonies</hi> were left indifferent: And then it would not be so easy for them to ingross such <hi>Multitudes</hi> of Livings and Church-perferments into one hand; They are afraid least Peoples eyes should be further <hi>Inlightened,</hi> and a thorough Reformation should be wrough<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; it is Terrible to them to think of Reducing <hi>Episcopacy</hi> to its primitive institution: They are <hi>Sensible</hi> that then it will be discovered that in the
+<pb n="5" facs="tcp:36541:3"/>
+               <hi>Primitive</hi> times there was no such thing as an <hi>Arch Bishop,</hi> and that it came in with <hi>Superstition and Blindness:</hi> These and abundance of other things that I could reckon stick on their <hi>Stomacks,</hi> but I will not Loose your time by Re<g ref="char:EOLhyphen"/>counting of them.</p>
+            <p>In Regard therefore that the enjoying of <hi>Ceremonies</hi> keep <hi>Thousands</hi> from conforming: <hi>I</hi> desire to be Answered, whe<g ref="char:EOLhyphen"/>ther they who stickle for <hi>Ceremonies</hi> do not play th <hi>Pope's Game</hi> to his greatest <hi>Advantage,</hi> for that which the <hi>Pope</hi> has always made his design, is to divide <hi>Protestants,</hi> and he knows there is no other way to ruine them but by so<g ref="char:EOLhyphen"/>menting differences amongst them; for all his other divices have proved nothing in Comparison of it.</p>
+            <p>And yet these <hi>Ceremony Mongers</hi> do speak plain sometimes; for tho they pretend to be for uniting of <hi>Protestants,</hi> yet they will tell you <hi>that Presbyterians are worse than the De<g ref="char:EOLhyphen"/>vil, and the Papists are to be esteemed of ten fold better than they,</hi> so that it will out slip them sometimes: do they not openly own their design, and when e're they mention the Plot; How plainly do they bewray themselves? with what difficulty are they brought to <hi>Acknowledge</hi> the belief of it? But no sooner was that Faction of the <hi>Presbyterian Plot</hi> started, but presently they ran away with it as the greatest truth, every where arguing People into the belief of it: As if themselves had had a hand in it, or else were such well wishers to it, that they desired it might succeed: For it is not to be denyed that no People can be less Active, if not altogether passive against the <hi>Popish Plot,</hi> than these <hi>Cere<g ref="char:EOLhyphen"/>mony Idolaters,</hi> and the <hi>Bishops</hi> themselves: so that w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th Submission <hi>I</hi> take it to be plain that <hi>Popery</hi> is at the bot<g ref="char:EOLhyphen"/>tom; And whilest that prevails, there is little hopes of u<g ref="char:EOLhyphen"/>niting <hi>Protestants</hi> by our dignified <hi>Clergy;</hi> and therefore the <hi>Parliament</hi> must do it, if 'ere it be done.</p>
+            <pb n="6" facs="tcp:36541:4"/>
+            <p>If <hi>Ceremonies</hi> are of that Moment that we must suppose the Church cannot subsist if they be laid aside: Therefore I will let that pass, and Humbly offer one thing, that I Conceive will conduce greatly to the composing the differ<g ref="char:EOLhyphen"/>ences that are amongst us, and I am the more confident to propose it, b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cause altho it sail in this, yet <hi>I</hi> hope that thing will appear <hi>Reasonable.</hi> In short therefore it is this, <hi>That a Law be made to take away Pluralities and Non-residen<g ref="char:EOLhyphen"/>ces:</hi> Not to have any Retrospect, for that I would not do, but to bar them for the Future; For by these it is that much of our Divisions are increased and high laid, and I<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le shew you how it comes to pass.</p>
+            <p>They who are Bred up to be <hi>Ministers</hi> are for the most part the Sons of such Parents, who are not capable of doing further for them than to maintain them at the University till they are capable to be admitted into a Benefice: And when they have done that, they turn them off to provide for themselves, who possibly have not five pounds in all the World, or a Cross (as we say) to bless themselves with; So that being put to shift for themselves, they find it difficult to get into a Living, for when any Vacancy is, it is ofter supplyed by a Man that is beneficed already than by him that has none. Therefore what must he do, he has nothing to subsist on, he can get no preferment, he must not starve; Work he cannot, to Beg he is ashamed. Steal he dares not; What then is his Refuge? There is no way left, but to insinuate himself into the Opinion of them that separate from the Church, and to gain Approbation, he must Preach up a new fangled Doctrine, and so gain to himself a People; And these he must be sure to keep from the Church by speaking against it and telling terrible Sto<g ref="char:EOLhyphen"/>ries of it, to fill them with fear and app<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ehensions that they
+<pb n="7" facs="tcp:36541:4"/> may not come at it; so that he is sure that if he can give them a disl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke of the Church, their Benevolences will be the more Liberal and certain; Whereas it Room were made in Ecclesiastical preferments, by preventing pluralities and <hi>non residences,</hi> young <hi>Clergy-Men</hi> would not be so apt to turn aside, because they need not dispair of Preferment; I acknowledge this would not wholly cure our Distemper, but I dare appeal to any Reasonable Man, whether it would not go a great way in the work.</p>
+            <p>But to let this pass, I will proceed and mention a few things, <hi>and then let any Man, if he can, justify Pluralists, and Non-Residence.</hi> First, where do we find in Scripture that any one Man had several flocks committed to his Care; Nay that of a Bishop (which if allowable in any, ought to have the oversight of many Congregations) yet they are confined to one Church, by the Primitive Institution of them; when the <hi>Clergy</hi> made the Work of the Ministry their Business. Therefore I would fain be satisfied, how it comes to pass that the Work of the Ministry is or ought to be less the Care of the Clergy tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> heretofore: Fo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> so it is now adays, and it plainly appears by their Coveting Pluralities. For how can he that has several Livings preach at them all; Visit and Comfort the Sick, and do all the Duties of him whose Care it is to watch for their Souls. And how unreasonable a thing is it, for one Man to have five, six, perhaps more Preferments, and five or six Me<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of more Learning and Piety perish for want of Bread? It would make a Man begin to think that Church Prefer<g ref="char:EOLhyphen"/>ments were ordained for these <hi>Pluralists,</hi> and not designed for every <hi>worthy Labourer,</hi> who well deserves his Hire; Besides, not to say any thing of the <hi>Debauchery, Pride, Co<g ref="char:EOLhyphen"/>vetousness,</hi> and Contention of the <hi>Clergy;</hi> What a shame is
+<pb n="8" facs="tcp:36541:5"/> it to see how these <hi>Pluralists</hi> make choice of their <hi>C<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rates;</hi> their Question is not, what is he? but how little will he take? as if Piety and Learning made no Matter, and were not requisite; And if a good Man be preferred to be a <hi>Cu<g ref="char:EOLhyphen"/>rate,</hi> it is by accident and not by design. And therefore <hi>I</hi> humbly conceive that the Divisions of our Church are not a little occasioned by this, and Contempt brought upon it. And is it not sad to think, that Men shall be preferred to the Church, upon the Account of Interest and not for Me<g ref="char:EOLhyphen"/>rit, This being so plain, I will not multiply words upon it, but conclude with this, that every Man's Religion is, <hi>To do Justly, love Mercy, and to walk humbly with GOD, to Believe in our Lord JESUS CHRIST. and not to put our Bre<g ref="char:EOLhyphen"/>thren out of the Church, for which GOD Almighty will not shut Heaven Gates against us.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:36541:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
